@@ -1,5 +1,10 @@
-
-
+<h1>📞Social</h1>
+<div>
+<a href="https://velog.io/@jiwonee02"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+<a href="https://www.instagram.com/2u_on.now/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:jiwonee@duksung.ac.kr"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+</br>
 
 <h1>📚Skills</h1>
 <strong>platforms & languages</strong>
