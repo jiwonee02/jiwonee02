@@ -1,4 +1,4 @@
-### 📚Skills
+## 📚Skills
 #### platforms & languages
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +25,7 @@
 
 </br>
 
-### 🍪About Me
+## 🍪About Me
 <div>
   <a href="https://velog.io/@jiwonee02"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
   <a href="https://www.instagram.com/2u_on.now/"><img src="https://img.shields.io/badge/2u%5Fon.now-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
