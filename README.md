@@ -36,7 +36,7 @@
 <br><br>
 
 ## ⚙️ Skill
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwj9127&exclude_repo=20210844_20210862&layout=donut&title_color=695A5A&text_color=695A5A&icon_color=E38193&bg_color=ffffff&hide_border=false" alt="Top Langs"  width=380 />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonee02&exclude_repo=20210844_20210862&layout=donut&title_color=695A5A&text_color=695A5A&icon_color=E38193&bg_color=ffffff&hide_border=false" alt="Top Langs"  width=380 />
 
 <div>
 <p>
