@@ -30,4 +30,4 @@
 - [[kakao x goorm] DeepDive 풀스택 11회차 Web IDE 프로젝트](https://github.com/CloudCloudZO/FE) | **Codable** [React]
 - [[kakao x goorm] DeepDive 풀스택 11회차 최종 프로젝트](https://github.com/kdt11CloudTeam/FE) | **모아북** [React]
 - [졸업작품 프로젝트](https://github.com/2025-NOGOROK/FE) | **노고록** [Kotlin]
-- [2025 ICT 한이음 공모전]() | **** [React]
+- [2025 ICT 한이음 공모전](https://github.com/Revu-IT/REVUIT_FE) | **RevuIT** [React]
