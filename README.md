@@ -31,8 +31,8 @@
 ### 2025
 - [[kakao x goorm] DeepDive 풀스택 11회차 Web IDE 프로젝트](https://github.com/CloudCloudZO/FE) | **Codable** [React]
 - [[kakao x goorm] DeepDive 풀스택 11회차 최종 프로젝트](https://github.com/kdt11CloudTeam/FE) | **모아북** [React]
-- [졸업 프로젝트](https://github.com/2025-NOGOROK/FE) | **노고록** [Kotlin]
-- [2025 ICT 한이음 공모전](https://github.com/Revu-IT/REVUIT_FE) | **RevuIT** [React]
+- [졸업 프로젝트](https://github.com/2025-NOGOROK/FE) | **노고록** [Kotlin] 🏆정신건강복지사업 공모전 장려상
+- [2025 ICT 한이음 공모전](https://github.com/Revu-IT/REVUIT_FE) | **RevuIT** [React] 🏆한이음 드림업 공모전 장려상
 - [사이드 프로젝트](https://github.com/E-booki-Project) | **E-booki** [React]
 
 <br><br>
